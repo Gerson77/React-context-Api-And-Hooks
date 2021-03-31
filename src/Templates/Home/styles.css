@@ -1,0 +1,14 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: 100vh;
+  background-color: #eee;
+  padding: 30px;
+}
+.container p {
+  font-style: italic;
+  color: #888;
+}
+.search-container {
+  padding-bottom: 20px;
+}
